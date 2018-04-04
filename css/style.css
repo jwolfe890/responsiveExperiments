@@ -1,0 +1,16 @@
+html {
+    box-sizing: border-box;
+}
+
+img {
+    width: calc((100%)/3);
+    /* margin-right: 25px; */
+    display: inline-block;
+    float: left;
+}
+
+img:last-of-type {
+    margin-right: 0px;
+}
+
+
